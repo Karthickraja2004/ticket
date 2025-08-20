@@ -1,0 +1,18 @@
+<!Doctype html>
+<html>
+	<head>
+		<title>Heading Tags</title>
+	</head>
+	<body>
+		<h1>Dhoni</h1>
+     		<p> He is a player from Chennai super kings and also a former cricket captain who won cups in the all format of international cricket and he have 5 ipl cups for Chennai super kings.</p>
+		<h2>Virat</h2>
+			<p>He is a player from Chennai super kings and also a former cricket captain who won cups in the all format of international cricket and he have 5 ipl cups for Chennai super kings.</p>
+		<h3>Heading 3</h3>
+		<h4>Heading 4</h4>
+		<h5>Heading 5</h5>
+		<h6>Heading 6</h6>
+
+		
+	</body>
+</html>

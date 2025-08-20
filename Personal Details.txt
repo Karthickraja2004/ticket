@@ -1,0 +1,20 @@
+<!Doctype html>
+<html>
+<head>
+	<title>Personal Details</title>
+</head>
+<body>
+	<center>
+		<h1><u>Personal Details</U></h1>
+		<i><b>name</b></i> : <mark>ABC </mark><br>
+		<i>Age</i> : <strike>year</strike>,<mark>age</mark>
+		<b>Degree : <u> B.Tech </u></b>
+		<b>Address<.b> : <u>              </u> <br>
+                                <u>               </u>
+
+
+
+
+	</center>
+</body>
+</html>
